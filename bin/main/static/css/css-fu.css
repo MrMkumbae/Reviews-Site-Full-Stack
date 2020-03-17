@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+footer {
+    background: #387A9B;
+	color: #fff;
+	text-align: right;
+	height: 3em;
+	line-height: 2em;
+}
